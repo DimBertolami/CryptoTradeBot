@@ -34,3 +34,9 @@ Start Frontend:
 5)
 Final Message: 
 	- display success message once all services have restarted.
+
+
+i also have a simple bash script to export my binance- and bitvavo api key + secret into my environment variables.
+export BINANCE_API_KEY="lkglkslkgms"
+export BINANCE_API_SECRET="qdjfqkmlfkjlqmskrfs"
+...
